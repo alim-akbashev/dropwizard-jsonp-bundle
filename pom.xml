@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
 
     <name>dropwizard-jsonp-bundle</name>
-    <url>http://maven.apache.org</url>
+    <url>https://github.com/alim-akbashev/dropwizard-jsonp-bundle</url>
 
     <properties>
         <dropwizard.version>0.8.1</dropwizard.version>
@@ -35,4 +35,32 @@
             </plugin>
         </plugins>
     </build>
+
+    <licenses>
+        <license>
+            <name>The Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Alim Akbashev</name>
+            <email>alim.akbashev@gmail.com</email>
+            <url>https://github.com/alim-akbashev</url>
+            <id>alim-akbashev</id>
+        </developer>
+    </developers>
+
+    <scm>
+        <url>https://github.com/alim-akbashev/dropwizard-jsonp-bundle</url>
+        <connection>scm:git:git@github.com:alim-akbashev/dropwizard-jsonp-bundle.git</connection>
+        <developerConnection>scm:git:git@github.com:alim-akbashev/dropwizard-jsonp-bundle.git</developerConnection>
+    </scm>
+
+    <issueManagement>
+        <system>GitHub Issues</system>
+        <url>https://github.com/alim-akbashev/dropwizard-jsonp-bundle/issues</url>
+    </issueManagement>
+
 </project>
